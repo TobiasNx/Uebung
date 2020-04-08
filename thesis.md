@@ -1,3 +1,3 @@
 # Das ist ein toller Versuch für git.
 
-Autor: Tobias Bülte
+Autor: Tobias X.  Bülte
